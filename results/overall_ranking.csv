@@ -1,0 +1,5 @@
+Model,Perplexity,Top1Acc,TrainTime,BigramValid(T=1),Distinct2(T=1),Repetition(T=1),MeanRank
+GRU,1.0,1.0,4.0,2.0,3.0,2.0,2.1666666666666665
+SimpleRNN,2.0,2.0,1.0,3.0,2.0,3.5,2.25
+BiRNN,3.0,3.0,2.0,4.0,1.0,1.0,2.3333333333333335
+LSTM,4.0,4.0,3.0,1.0,4.0,3.5,3.25
